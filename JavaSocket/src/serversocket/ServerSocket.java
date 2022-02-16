@@ -1,12 +1,13 @@
-package javasocket;
+package serversocket;
 
 /**
  *
  * @author puggioni.riccardo
  */
-public class JavaSocket {
+public class ServerSocket {
 
     public static void main(String[] args) {
+        
     }
 
 }
